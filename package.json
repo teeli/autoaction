@@ -4,9 +4,7 @@
   "description": "Declarative data loading for redux + react",
   "main": "transpiled/autoaction.js",
   "scripts": {
-     "build":"./node_modules/babel-cli/bin/babel.js src --out-dir transpiled",
-     "build:dev":"./node_modules/babel-cli/bin/babel.js --watch src --out-dir transpiled",
-     "prepublish": "npm run build",
+     "prepublish": "$(npm bin)/babel src --out-dir transpiled",
      "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
