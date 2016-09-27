@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/tonyhb/autoaction.git"
+    "url": "git+ssh://git@github.com/teeli/autoaction.git"
   },
   "keywords": [
     "autoaction",
@@ -21,9 +21,9 @@
   "author": "Tony Holdstock-Brown",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tonyhb/autoaction/issues"
+    "url": "https://github.com/teeli/autoaction/issues"
   },
-  "homepage": "https://github.com/tonyhb/autoaction#readme",
+  "homepage": "https://github.com/teeli/autoaction#readme",
   "peerDependencies": {
     "react": "^15.0.0",
     "react-redux": "^4.0.0"
