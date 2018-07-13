@@ -2,7 +2,8 @@
 
 // import storeShape from 'react-redux/lib/utils/storeShape';
 import shallowEqual from 'react-redux/lib/utils/shallowEqual';
-import React, { PropTypes } from 'react';
+import React from 'react';
+import PropTypes from 'prop-types';
 import deepEqual from 'deep-equal';
 import { bindActionCreators } from 'redux';
 
